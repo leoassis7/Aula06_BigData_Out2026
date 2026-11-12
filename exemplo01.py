@@ -37,4 +37,8 @@ match opcao:
         print(f'O valor a pagar é de R$ {valor_da_compra}')
 
     case _:
+        
         print('Opção inválida!!')
+
+   
+
